@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Emergency-SOS App**
 
-- 🌱 I’m currently learning **Tensorflow ,Android Studio ,Figma**
+- 🌱 I’m currently learning **Java,DSA,Tensorflow ,Android Studio ,Figma**
 
 - 📫 How to reach me **charvikoolwal14@gmail.com**
 
